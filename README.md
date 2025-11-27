@@ -1,4 +1,4 @@
-# Exp 2: Design an 12V Battery Charger Circuit With Auto Cut OFF & ON circuit using Eagle software
+# Exp 3: Design an 12V Battery Charger Circuit With Auto Cut OFF & ON circuit using Eagle software
 # AIM:
 To design an schematic,layout diagram and generate gerber file for a 12V Battery Charger Circuit With Auto Cut OFF & ON circuit using Eagle software.
 # EQUIPMENT REQUIRED:
